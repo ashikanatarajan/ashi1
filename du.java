@@ -1,12 +1,12 @@
 import java.util.*;
-public class minimum 
+public class min
 {
-public static void main(String ar[])throws Exception
+public static void main(String ar[])
 {
     int r,i,k;
     int p[]=new int[100];
 Scanner sc=new Scanner(System.in);
-minimum m1=new minimum();
+min m1=new min();
 String a=new String();
 a=sc.next();
 k=sc.nextInt();
